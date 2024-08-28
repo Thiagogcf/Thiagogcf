@@ -1,55 +1,65 @@
-# 🚀 Olá, Mundo! 👋 Eu sou Thiago! 
+
+# 【Thiago Ferronato】
+
+<div align="center">
+<img src="https://images.wallpapersden.com/image/download/black-cat-looking-out-window-minimal_bWhoZW6UmZqaraWkpJRobWllrWdma2U.jpg" alt="Gato preto olhando pela janela" width="500">
+</div>
+
+## Desenvolvedor Full Stack | Engenheiro de Computação em formação
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoferronato/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoFerronato)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vulgo_ice_Thi)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Vulgo_ice_Thi)
+
+## 【Sobre Mim】
+
+Sou um desenvolvedor curioso e atento, sempre buscando novos desafios no mundo da tecnologia. Minha paixão por inovação e experiência em várias linguagens e frameworks me permitem criar soluções eficientes e criativas.
+
+- Chapecó, Santa Catarina, Brasil
+
+## 【Habilidades Técnicas】
+
+- **Linguagens:** `Python` `C#` `Java` `JavaScript` `TypeScript` `PHP` `SQL`
+- **Frameworks:** `.NET` `Angular` `CodeIgniter`
+- **Bancos de Dados:** `SQL Server` `PostgreSQL` `Oracle`
+- **Ferramentas:** `Git` `Genexus`
+- **Outros:** `HTML` `CSS` `Manutenção de Hardware/Software`
+
+## 【Experiência Profissional】
+
+**Programador Full Stack | Vision System** (2023 - Presente)
+- Trabalho com .NET, Angular, SQL Server e PostgreSQL
+
+**Programador | Infogen Software** (2021 - 2023)
+- Desenvolvi projetos usando C#, Genexus e Python
+
+**Monitor de Informática | Curso de Eng. de Computação** (2021)
+
+**Estagiário | TI da UDESC** (2021)
+
+## 【Formação Acadêmica】
+
+**Engenharia de Computação | UNOESC, Chapecó** (Em andamento)
+
+**Técnico em Informática | IFSC, Chapecó** (2016 - 2020)
+- Aprendi desenvolvimento web, sistemas, redes, banco de dados e programação
+
+**Inglês Avançado | Wizard, Chapecó** (2011 - 2018)
+
+## 【Conquistas】
+
+- Participei do Projeto Egressos IF (Desenvolvimento web com PHP CodeIgniter e SQL)
+- Ganhei prêmio no Hackathon 2019 (Competição estadual de programação)
+
+## 【Projetos】
+
+Meus repositórios são como uma coleção de experimentos e ideias. Cada projeto reflete uma parte diferente da minha jornada na tecnologia. Dá uma olhada, quem sabe você não encontra algo legal ou até quer contribuir!
+
+## 【Contato】
+
+Quer trocar uma ideia sobre tecnologia ou tem algum projeto em mente? Me chama nas redes sociais ali em cima!
 
 ---
 
-### 🎯 Sobre mim
-
-Olá, sou Thiago, também conhecido como Vulgo_ice_Thi na internet! 🌎 Sou de Chapecó-SC, Brasil e atualmente trabalho na Infogen. Como um entusiasta de tecnologia, estou sempre explorando novas coisas. Meu trabalho na Infogen é bastante diversificado - trabalho com uma variedade de tecnologias como Genexus 9, Genexus 10, C# (dotnet, .net, e mais), Python, SQL e Oracle. 
-
-Apesar de minha experiência com várias linguagens e tecnologias, minha maior proficiência é em Python. 🐍 Adoro a simplicidade e versatilidade que o Python oferece e gosto de usá-lo em meus projetos sempre que possível.
-
-Adoro jogar meus projetos aqui no GitHub - quem sabe eles possam ser úteis para alguém! 🚀
-
----
-
-### 🤝 Conecte-se comigo
-
-Você pode me encontrar no Instagram e Twitter com o @Vulgo_ice_Thi.
-
-🐦 [Twitter](https://twitter.com/Vulgo_ice_Thi)
-📸 [Instagram](https://instagram.com/Vulgo_ice_Thi)
-
----
-
-### 📚 Sobre o repositório
-
-Este repositório é uma caixa de surpresas! Você encontrará uma variedade de projetos aqui, abrangendo uma ampla gama de tecnologias. Embora possa parecer um pouco aleatório à primeira vista, há uma possibilidade de que você possa encontrar algo que lhe seja útil ou interessante. Então, fique à vontade para explorar, usar ou contribuir!
-
----
-
-# 🚀 Hi there! 👋 I'm Thiago! 
-
----
-
-### 🎯 About me
-
-Hello, I'm Thiago, also known as Vulgo_ice_Thi on the internet! 🌎 I'm from Chapecó-SC, Brazil, and currently working at Infogen. As a tech enthusiast, I'm always exploring new things. My work at Infogen is quite diverse - I work with a range of technologies such as Genexus 9, Genexus 10, C# (dotnet, .net, and more), Python, SQL, and Oracle.
-
-Despite my experience with various languages and technologies, my greatest proficiency is in Python. 🐍 I love the simplicity and versatility that Python offers, and I like to use it in my projects whenever possible.
-
-I love throwing my projects here on GitHub - who knows, they might be useful to someone! 🚀
-
----
-
-### 🤝 Connect with me
-
-You can find me on Instagram and Twitter @Vulgo_ice_Thi.
-
-🐦 [Twitter](https://twitter.com/Vulgo_ice_Thi)
-📸 [Instagram](https://instagram.com/Vulgo_ice_Thi)
-
----
-
-### 📚 About the repository
-
-This repository is a surprise box! You will find a variety of projects here, spanning a broad range of technologies. While it might seem a bit random at first sight, there's a chance you might find something that could be useful or interesting to you. So feel free to explore, use, or contribute!
+> *"O código é como a noite: cheio de possibilidades e mistérios esperando para serem desvendados."*
