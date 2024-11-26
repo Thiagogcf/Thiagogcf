@@ -1,94 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
-  <!-- Definitions -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120">
   <defs>
-    <!-- Gradient for cells -->
-    <linearGradient id="cellGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#034525;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00c647;stop-opacity:1" />
+    <linearGradient id="statsGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
     </linearGradient>
-    
-    <!-- Pulse animation -->
-    <radialGradient id="pulseGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-      <stop offset="0%" stop-color="#00c647" stop-opacity="0.6">
-        <animate attributeName="stop-opacity" values="0.6;0.2;0.6" dur="2s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#034525" stop-opacity="0.1">
-        <animate attributeName="stop-opacity" values="0.1;0.3;0.1" dur="2s" repeatCount="indefinite"/>
-      </stop>
-    </radialGradient>
   </defs>
 
   <!-- Background -->
-  <rect width="800" height="200" fill="#161b22"/>
-  
-  <!-- Month Labels -->
-  <g fill="#8b949e" font-family="Arial" font-size="10">
-    <text x="40" y="20">Jan</text>
-    <text x="120" y="20">Feb</text>
-    <text x="200" y="20">Mar</text>
-    <text x="280" y="20">Apr</text>
-    <text x="360" y="20">May</text>
-    <text x="440" y="20">Jun</text>
-    <text x="520" y="20">Jul</text>
-    <text x="600" y="20">Aug</text>
-    <text x="680" y="20">Sep</text>
-    <text x="760" y="20">Oct</text>
-  </g>
+  <rect width="800" height="120" fill="url(#statsGradient)" rx="6"/>
 
-  <!-- Contribution Grid -->
-  <g transform="translate(20, 40)">
-    <!-- Generate 52 weeks x 7 days grid with animated cells -->
-    <g id="contributionGrid">
-      <!-- Week blocks with varying intensity -->
-      <g transform="translate(0,0)">
-        <!-- High Activity Weeks -->
-        <rect x="280" y="0" width="40" height="140" fill="url(#cellGradient)" opacity="0.8">
-          <animate attributeName="opacity" values="0.8;0.6;0.8" dur="3s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="440" y="0" width="40" height="140" fill="url(#cellGradient)" opacity="0.9">
-          <animate attributeName="opacity" values="0.9;0.7;0.9" dur="3.5s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="600" y="0" width="40" height="140" fill="url(#cellGradient)" opacity="0.7">
-          <animate attributeName="opacity" values="0.7;0.5;0.7" dur="4s" repeatCount="indefinite"/>
-        </rect>
-
-        <!-- Medium Activity Weeks -->
-        <rect x="120" y="0" width="40" height="140" fill="url(#cellGradient)" opacity="0.5">
-          <animate attributeName="opacity" values="0.5;0.3;0.5" dur="4.5s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="360" y="0" width="40" height="140" fill="url(#cellGradient)" opacity="0.6">
-          <animate attributeName="opacity" values="0.6;0.4;0.6" dur="3.8s" repeatCount="indefinite"/>
-        </rect>
-
-        <!-- Low Activity Weeks -->
-        <rect x="40" y="0" width="40" height="140" fill="url(#cellGradient)" opacity="0.3">
-          <animate attributeName="opacity" values="0.3;0.1;0.3" dur="5s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="200" y="0" width="40" height="140" fill="url(#cellGradient)" opacity="0.4">
-          <animate attributeName="opacity" values="0.4;0.2;0.4" dur="4.2s" repeatCount="indefinite"/>
-        </rect>
-      </g>
-
-      <!-- Highlight Circles for Peak Activity -->
-      <circle cx="300" cy="70" r="15" fill="url(#pulseGradient)">
-        <animate attributeName="r" values="15;20;15" dur="2s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="460" cy="70" r="15" fill="url(#pulseGradient)">
-        <animate attributeName="r" values="15;20;15" dur="2.5s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="620" cy="70" r="15" fill="url(#pulseGradient)">
-        <animate attributeName="r" values="15;20;15" dur="3s" repeatCount="indefinite"/>
-      </circle>
+  <!-- Stats Grid -->
+  <g transform="translate(20, 20)" fill="#7D8590" font-family="Arial, sans-serif">
+    <g transform="translate(0, 0)">
+      <rect width="180" height="80" fill="#161B22" rx="4"/>
+      <text x="90" y="35" text-anchor="middle" font-size="24" fill="#7D8590">1,482</text>
+      <text x="90" y="60" text-anchor="middle" font-size="12">Contributions</text>
     </g>
 
-    <!-- Legend -->
-    <g transform="translate(0, 160)">
-      <text x="0" y="15" fill="#8b949e" font-family="Arial" font-size="10">Less</text>
-      <rect x="40" y="5" width="10" height="10" fill="#034525"/>
-      <rect x="60" y="5" width="10" height="10" fill="#046832"/>
-      <rect x="80" y="5" width="10" height="10" fill="#0f6d31"/>
-      <rect x="100" y="5" width="10" height="10" fill="#00c647"/>
-      <text x="120" y="15" fill="#8b949e" font-family="Arial" font-size="10">More</text>
+    <g transform="translate(200, 0)">
+      <rect width="180" height="80" fill="#161B22" rx="4"/>
+      <text x="90" y="35" text-anchor="middle" font-size="24" fill="#7D8590">32</text>
+      <text x="90" y="60" text-anchor="middle" font-size="12">Repositories</text>
+    </g>
+
+    <g transform="translate(400, 0)">
+      <rect width="180" height="80" fill="#161B22" rx="4"/>
+      <text x="90" y="35" text-anchor="middle" font-size="24" fill="#7D8590">186</text>
+      <text x="90" y="60" text-anchor="middle" font-size="12">Pull Requests</text>
+    </g>
+
+    <g transform="translate(600, 0)">
+      <rect width="180" height="80" fill="#161B22" rx="4"/>
+      <text x="90" y="35" text-anchor="middle" font-size="24" fill="#238636">92%</text>
+      <text x="90" y="60" text-anchor="middle" font-size="12">Code Review Ratio</text>
     </g>
   </g>
 </svg>
