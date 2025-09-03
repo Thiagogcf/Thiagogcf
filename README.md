@@ -1,64 +1,89 @@
+# Thiago Ferronato
 
-# 【Thiago Ferronato】
+**Full Stack Developer | Chapecó, SC**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7c3aed?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ferronato-6b789b218)
+[![GitHub](https://img.shields.io/badge/-GitHub-6d28d9?style=flat&logo=github&logoColor=white)](https://github.com/Thiagogcf)
+
+## About
+
+Desenvolvedor Full Stack com foco em arquiteturas modernas e inteligência artificial. Atualmente na Expresso São Miguel, trabalhando com Java/Quarkus e React. Cursando MBA em Desenvolvimento de Software com IA.
+
+## Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/-Java-8b5cf6?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-7c3aed?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-6d28d9?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-5b21b6?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-4c1d95?style=flat&logo=typescript&logoColor=white)
+
+**Frameworks & Libraries**  
+![Quarkus](https://img.shields.io/badge/-Quarkus-8b5cf6?style=flat&logo=quarkus&logoColor=white)
+![React](https://img.shields.io/badge/-React-7c3aed?style=flat&logo=react&logoColor=white)
+![Ember](https://img.shields.io/badge/-Ember-6d28d9?style=flat&logo=emberdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-5b21b6?style=flat&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-4c1d95?style=flat&logo=dotnet&logoColor=white)
+
+**Database & Tools**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-8b5cf6?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-7c3aed?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-6d28d9?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-5b21b6?style=flat&logo=docker&logoColor=white)
+
+## GitHub Stats
 
 <div align="center">
-<img src="https://images.wallpapersden.com/image/download/black-cat-looking-out-window-minimal_bWhoZW6UmZqaraWkpJRobWllrWdma2U.jpg" alt="Gato preto olhando pela janela" width="500">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiagogcf&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=9333ea&text_color=c4b5fd)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagogcf&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=c4b5fd)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thiagogcf&theme=purple-dark&hide_border=true&background=0d0d0d&ring=a855f7&fire=9333ea&currStreakLabel=c4b5fd&dates=c4b5fd&stroke=6d28d9)
+
 </div>
 
-## Desenvolvedor Full Stack | Engenheiro de Computação em formação
+## Experience
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ferronato-6b789b218)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiagogcf)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Vulgo_ice_Thi)
+**Expresso São Miguel** - Full Stack Developer *(2024 - Present)*  
+Java, Quarkus, React, Ember, Microservices
 
-## 【Sobre Mim】
+**Vision System** - Full Stack Developer *(2023 - 2024)*  
+.NET, Angular, SQL Server, PostgreSQL
 
-Sou um desenvolvedor curioso e atento, sempre buscando novos desafios no mundo da tecnologia. Minha paixão por inovação e experiência em várias linguagens e frameworks me permitem criar soluções eficientes e criativas.
+**Infogen Software** - Developer *(2021 - 2023)*  
+C#, Genexus, Python
 
-- Chapecó, Santa Catarina, Brasil
+**UDESC** - IT Support *(2021)*  
+Technical support and infrastructure
 
-## 【Habilidades Técnicas】
+## Education
 
-- **Linguagens:** `Python` `C#` `Java` `JavaScript` `TypeScript` `PHP` `SQL`
-- **Frameworks:** `.NET` `Angular` `CodeIgniter`
-- **Bancos de Dados:** `SQL Server` `PostgreSQL` `Oracle`
-- **Ferramentas:** `Git` `Genexus`
-- **Outros:** `HTML` `CSS` `Manutenção de Hardware/Software`
+**MBA in Software Development with AI** - *(In Progress)*  
+Focus on AI integration in modern software architecture
 
-## 【Experiência Profissional】
+**Computer Engineering** - UNOESC *(2020 - 2024)*  
+Bachelor's Degree
 
-**Programador Full Stack | Vision System** (2023 - Presente)
-- Trabalho com .NET, Angular, SQL Server e PostgreSQL
+**Computer Technician** - IFSC *(2016 - 2020)*  
+Technical Degree
 
-**Programador | Infogen Software** (2021 - 2023)
-- Desenvolvi projetos usando C#, Genexus e Python
+**Advanced English** - Wizard *(2011 - 2018)*  
+Certificate of Proficiency
 
-**Monitor de Informática | Curso de Eng. de Computação** (2021)
+## Recent Projects
 
-**Estagiário | TI da UDESC** (2021)
-
-## 【Formação Acadêmica】
-
-**Engenharia de Computação | UNOESC, Chapecó** (Em andamento)
-
-**Técnico em Informática | IFSC, Chapecó** (2016 - 2020)
-- Aprendi desenvolvimento web, sistemas, redes, banco de dados e programação
-
-**Inglês Avançado | Wizard, Chapecó** (2011 - 2018)
-
-## 【Conquistas】
-
-- Participei do Projeto Egressos IF (Desenvolvimento web com PHP CodeIgniter e SQL)
-- Ganhei prêmio no Hackathon 2019 (Competição estadual de programação)
-
-## 【Projetos】
-
-Meus repositórios são como uma coleção de experimentos e ideias. Cada projeto reflete uma parte diferente da minha jornada na tecnologia. Dá uma olhada, quem sabe você não encontra algo legal ou até quer contribuir!
-
-## 【Contato】
-
-Quer trocar uma ideia sobre tecnologia ou tem algum projeto em mente? Me chama nas redes sociais ali em cima!
+```text
+🚀 Microservices architecture with Quarkus
+🤖 AI-powered features integration
+⚡ Performance optimization in legacy systems
+🔄 Migration from monolithic to reactive architecture
+```
 
 ---
 
-> *"O código é como a noite: cheio de possibilidades e mistérios esperando para serem desvendados."*
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Thiagogcf&color=7c3aed&style=flat)
+
+</div>
